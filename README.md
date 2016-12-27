@@ -6,8 +6,8 @@ Numpy for Data Science
 
 Going to walk you through Numpy
 
-1.
-2.
-3.
-4.
-5.
+- 1.
+- 2.
+- 3.
+- 4.
+- 5.
