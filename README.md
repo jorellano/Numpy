@@ -1,17 +1,17 @@
-Numpy for Data Science
-===================
  Numpy: Creating & manipulating numerical data
 =====================================
 ###
 
 If you're new to Data Science, I hope this will help.
 
-- 1. Introduction
+This is to get you acquainted with data structures in Pythons NumPy library.
 
-- 2.
+- 1.  Introduction
 
-- 3
+- 2. Something here
 
-- 4.
+- 3 Something here
 
-- 5.
+- 4. Something here
+
+- 5. Something here
